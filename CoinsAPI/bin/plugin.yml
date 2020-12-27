@@ -1,0 +1,7 @@
+name: CoinsAPI
+author: BxMore
+version: 1.0
+main: de.supremedev.main.main
+
+commands:
+   coins:
